@@ -15,6 +15,7 @@ import java.util.Map;
 import java.util.Objects;
 
 public class MyApplicationContext {
+
     
     private Map<String, Object> beanMap = new HashMap<>();
 
