@@ -16,6 +16,7 @@ import java.util.Objects;
 
 public class MyApplicationContext {
 
+
     private Map<String, Object> beanMap = new HashMap<>();
 
     public MyApplicationContext(String rulName) {
